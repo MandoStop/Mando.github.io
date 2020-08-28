@@ -15,12 +15,12 @@ Packagesxzmd5=$(md5 Packages.gz| cut -d ' ' -f 1)
 Packagessha256=$(openssl dgst -sha256 Packages| cut -d ' ' -f 2)
 Packagesbzsha256=$(openssl dgst -sha256 Packages.bz2| cut -d ' ' -f 2)
 Packagesxzsha256=$(openssl dgst -sha256 Packages.gz| cut -d ' ' -f 2)
-echo 'Origin: Tweaky ©
-Label: Tweaky Repo ©
+echo 'Origin: MandoStop ©
+Label: MandoStop Repo ©
 Suite: stable
 Version: 1.0
-Codename: Tweaky
+Codename: MandoStop
 Architectures: iphoneos-arm
 Components: main
-Description: Tweaky ©
+Description: MandoStop ©
 '>> Release
