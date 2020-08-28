@@ -1,8 +1,9 @@
-Origin: MandoStop ©
-Label: MandoStop ©
+Origin: Tweaky ©
+Label: Tweaky Repo ©
 Suite: stable
 Version: 1.0
-Codename: MandoStop
+Codename: Tweaky
 Architectures: iphoneos-arm
 Components: main
-Description: MandoStop ©
+Description: Tweaky ©
+
