@@ -1,13 +1,13 @@
 Package: com.mando.stoptools
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Mando
 Depends: mobilesubstrate, gawk, network-cmds, com.conradkramer.open, com.bingner.plutil, tcpdump, curl
-Filename: debfiles/com.mando.stoptools_1.0_iphoneos-arm.deb
-Size: 15650646
-MD5sum: ba80d420566afab9f089cbf1cc1458fc
-SHA1: ce29ba8c477376d269af1bcfcaeb78a2b7a75032
-SHA256: a06b323d03f6c0b2506cdbf1625db926222ef2f868b5064f9d868f50450615f5
+Filename: debfiles/com.mando.stoptools_1.1_iphoneos-arm.deb
+Size: 15648770
+MD5sum: 44c4dc1c2e3c47dd4fa71984d8afbf87
+SHA1: 5a57bb5eea01e08c3a61782badd59fdb38f7e670
+SHA256: 884f7af6b7f2631540e20255952f03cf5bd9e08d79de922edee078e731a79f86
 Section: Tweaks
 Description: Stop-Tool For PUBGM by Mando
 Author: Mando
